@@ -1,0 +1,135 @@
+/*!
+ * Start Bootstrap - Business Casual v5.0.0 (https://startbootstrap.com/template-overviews/business-casual)
+ * Copyright 2013-2018 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-business-casual/blob/master/LICENSE)
+ */
+
+body {
+  font-family: 'Montserrat';
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  margin: 0;
+}
+
+h1{
+  font-family: 'M';
+}
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Monsterrat';
+}
+
+p {
+  line-height: 1.75;
+}
+
+.text-faded {
+  color: rgba(255, 255, 255, 0.3);
+}
+
+.site-heading {
+  text-transform: uppercase;
+  font-family: 'Montserrat';
+  font-size: 20px;
+}
+
+.footer {
+  background-color: #000000;
+  width: 100%;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.text-primary {
+  color: #e6a756 !important;
+}
+
+.bg-primary {
+  background-color: #e6a756 !important;
+}
+
+.btn {
+  -webkit-box-shadow: 0px 3px 3px 0px rgba(33, 37, 41, 0.1);
+  box-shadow: 0px 3px 3px 0px rgba(33, 37, 41, 0.1);
+}
+
+.btn-primary {
+  background-color: #e6a756;
+  border-color: #e6a756;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+  background-color: #df902a;
+  border-color: #df902a;
+}
+
+.font-weight-light {
+  font-weight: 100 !important;
+}
+
+
+.wanted img{
+  width: 50%;
+  height: 50%;
+  margin-right: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 10px;
+}
+
+.green {
+  background-color:#B5D1C3;
+  padding-top: 10px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.center2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.project .logo{
+  height: 100%;
+  width: 100%;
+  margin-right: 20px;
+}
+
+.grid {
+  background-image: url("../img/bk.png");
+}
+
+.logos img{
+  width: 40%;
+  height: 40%;
+  margin-right: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 10px;
+}
+
