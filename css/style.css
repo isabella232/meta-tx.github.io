@@ -86,6 +86,7 @@ p {
 .green {
   background-color:#B5D1C3;
   padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .center {
@@ -131,5 +132,10 @@ p {
   margin-left: auto;
   margin-right: auto;
   padding-bottom: 10px;
+}
+
+.cartel img {
+  width: 400px;
+  height: 246px;
 }
 
